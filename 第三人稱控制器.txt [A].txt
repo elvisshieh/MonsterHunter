@@ -1,1 +1,1 @@
-"Modified by jllin7850"
+float jump = 5;
